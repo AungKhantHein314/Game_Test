@@ -1,3 +1,3 @@
-import { main } from "./basics/responsiveDesign/multiCubesRes.js";
+import { main } from "./get/test.js";
 
 main();
